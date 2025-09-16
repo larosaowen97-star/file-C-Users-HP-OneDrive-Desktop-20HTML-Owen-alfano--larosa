@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Owen Larosa</title>
+ </head>
+<body>
+        <h1>Owen Larosa  </h1>
+        ini halaman pertama<br>
+        <p>Welcome to Owen Larosa's page
+        </p> HIDUP dari kondisi yang serba terbatas membuat banyak orang ragu apakah masa depan bisa berubah.
+        Namun, perjalan dari titik nol membuktikan bahwa batasan hanya ada di pikiran.pernah ada masa di mana uang
+        untuk sekolah terasa berat, makan pun harus di atur sehemat mungkin, dan setiap langkah maju selalalu di 
+        iringi dengan keraguan orang lain.
+
+    <p> meski begitu, tekad untuk memperjuangkan mimpi jauh lebih besar dari pada rasa takut gagal.
+        haru-hari di lalui dengan kerja keras, belajar dari sela-sela lelah, dan berani mncoba meski hasilnya sering tidak langsung terlihat.
+        perlahan, pintu kesempatan terbuka. sedikit demi sedikit, impian yang dulu hanya ada di angan-angan dan mulai terwujud: bisa kuliah,
+        bisa mandiri, akhirnya mampu membantu keluarga.
+
+
+        <p>         perjalanan itu mengajarkan satu hal penting- ke suksesan tidak lahir dari keberuntungan instan , tetapi dari ketekunan,
+            kesabaran, dan keberanian untuk terus melangkangkah meski jalan tersa berat.
+            dari titik nol, sengalanya bisa berubah menjadi nyata ketika seseorang benar-benar percaya pada perjuangnnya sendiri
+        </p>
+    </p>
+
+        <a href="halaman2.html">go to halaman2.</a>
+        <a href="halaman1."kembali ke home></a>
+
+
+
+    </body>
+</html>
